@@ -1,4 +1,4 @@
-# Hi there, I'm [Giovanni Ciarravano] 👋
+# Hi there, I'm Giovanni Ciarravano 👋
 
 ### 🎓 M.Sc. Student in Computer Science | B.Sc. Graduate (110/110 cum laude)
 *Passionate about building scalable software and solving complex algorithmic challenges.*
